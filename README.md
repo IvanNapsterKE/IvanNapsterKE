@@ -1,6 +1,6 @@
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/IvanNapsterKE/IvanNapsterKE/blob/main/Sources/Hi.gif" width="50"></h2>
 
-<a href="https://https://linkedin.com/in/IvanNapster-KE" target="_blank">
+<a href="[https://https://linkedin.com/in/IvanNapster-KE]" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
