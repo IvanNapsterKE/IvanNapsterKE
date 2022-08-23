@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started: -->
 
-<h2>- 🔭 I’m currently working on ... </h2>
-
-<h2>- 🌱 I’m currently learning [React + RUBY] </h2>
-<h2>- 👯 I’m looking to collaborate on [your project] </h2>
-<h2>- 🤔 I’m looking for help with ... </h2>
-<h2>- 💬 Ask me about [Cars & Starwars] </h2>
-<h2>- 📫 How to reach me: [Click Me!!!] </h2>
-<h2>- 😄 Pronouns: [He/Him] </h2>
-<h2>- ⚡ Fun fact: ...</h2>
+<h4>- 🔭 I’m currently working on ... </h4>
+<h4>- 🌱 I’m currently learning [React + RUBY] </h4>
+<h4>- 👯 I’m looking to collaborate on [your project] </h4>
+<h4>- 🤔 I’m looking for help with ... </h4>
+<h4>- 💬 Ask me about [Cars & Starwars] </h4>
+<h4>- 📫 How to reach me: [Click Me!!!] </h4>
+<h4>- 😄 Pronouns: [He/Him] </h4>
+<h4>- ⚡ Fun fact: ...</h4>
 
   
 ## Tech Stack :computer:
