@@ -17,9 +17,9 @@
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a> -->
 
-
 <br />
 <br />
+</div>
 
 <h4>- 🔭 I’m currently working on ... </h4>
 <h4>- 🌱 I’m currently learning [React + RUBY] </h4>
@@ -31,7 +31,7 @@
 <h4>- ⚡ Fun fact: ...</h4>
 
 
-
+<div align="center">
 
 ## Tech Stack :computer:
 
