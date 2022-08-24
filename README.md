@@ -1,3 +1,4 @@
+<div>
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/IvanNapsterKE/IvanNapsterKE/blob/main/Sources/Hi.gif" width="50"></h2>
 
 <a href="https://linkedin.com/in/IvanNapster-KE" target="_blank">
@@ -30,7 +31,7 @@
 
 
 
-<div>
+
 ## Tech Stack :computer:
 
 <br>
