@@ -30,7 +30,7 @@
 <h4>- 💬 Ask me about [Cars & Starwars] </h4>
 <h4>- 📫 How to reach me: [Click Me!!!] </h4>
 <h4>- 😄 Pronouns: [He/Him] </h4>
-<h4>- ⚡ Fun fact: ...</h4>
+<h4>- ⚡ Fun fact: ...A mosquito has 47 teeth.</h4>
 
 
 <div align="center">
