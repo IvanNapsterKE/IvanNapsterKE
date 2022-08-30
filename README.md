@@ -56,8 +56,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>CSS</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/css.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -66,11 +66,11 @@
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td align="center" width="20%">
 <span><b><center>MATLAB</center></b></span> 
 <img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td>
+</td> -->
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
@@ -96,17 +96,17 @@
 
 
 
-<td align="center" width="20%">
+<!-- <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+</td> -->
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
