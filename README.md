@@ -9,7 +9,7 @@
 
 [](IvanNapsterKE)
  
- <img src="https://github.com/IvanNapsterKE/IvanNapsterKE/blob/main/Sources/Hi.gif" width="50"></h2>
+ <img src="https://github.com/IvanNapsterKE/IvanNapsterKE/blob/main/Sources/Hi.gif" width="50">
 
 <a href="https://linkedin.com/in/IvanNapster-KE" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -40,6 +40,9 @@
 
 
 <div align="center">
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IvanNapsterKE&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNapsterKE&langs_count=5&theme=tokyonight)]()
 
 ## Tech Stack :computer:
 
