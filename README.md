@@ -51,7 +51,7 @@
 <tbody>
  <tr>
 <td align="center" width="30%">
-<span><b><center>ReactJS</center></b></span> 
+<span><center>ReactJS</center></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
