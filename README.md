@@ -1,9 +1,4 @@
-<!-- import '@github/typing-effect-element' -->
 
-<typing-effect-element data-lines='[" Hi There, Welcome to my Github profile!"]'>
-  <span data-target="typing-effect.content"></span>
-  <span data-target="typing-effect.cursor">|</span>
-</typing-effect-element>
 
 <div align="center">
 
@@ -74,57 +69,57 @@
 <span><b><center>NodeJS</center></b></span>
 </td>
 </tr>
-<!-- <tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td> -->
+
 <tr>
 <td align="center" width="30%">
-<span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="30%">
-<span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
-
 <td align="center" width="30%">
-<span><b><center>Bash</center></b></span> 
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="30%">
+<span><b><center>Git</center></b></span>
+</td>
+<td align="center" width="30%">
+ <span><b><center>Python</center></b></span>
+</td>
+<td align="center" width="30%">
+<span><b><center>Bash</center></b></span>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="30%"> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+<td align="center" width="30%"> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="0%"> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="30%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<span><b><center>C++</center></b></span>
 </td>
-
-
-
-<!-- <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr> -->
-
-<!-- 
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td> -->
-
 <td align="center" width="30%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
-
-<td align="center" width="0%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<td align="center" width="30%">
+<span><b><center>HTML</center></b></span>
 </td>
 </tr>
 
