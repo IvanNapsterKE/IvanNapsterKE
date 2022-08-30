@@ -23,14 +23,13 @@
 <br />
 </div>
 
-<h4>- 🔭 I’m currently working on ... </h4>
-<h4>- 🌱 I’m currently learning [React + RUBY] </h4>
-<h4>- 👯 I’m looking to collaborate on [your project] </h4>
-<h4>- 🤔 I’m looking for help with ... </h4>
+<h4>- 🔭 Working on becoming a guru </h4>
+<h4>- 🌱 Learning [React + JS + RUBY] </h4>
+<h4>- 👯 Let's collaborate ;)</h4>
 <h4>- 💬 Ask me about [Cars & Starwars] </h4>
 <h4>- 📫 How to reach me: [Click Me!!!] </h4>
 <h4>- 😄 Pronouns: [He/Him] </h4>
-<h4>- ⚡ Fun fact: ...A mosquito has 47 teeth.</h4>
+<h4>- ⚡ Fun fact: Sheldon has a mexican Peso stuck up his nose</h4>
 
 
 <div align="center">
