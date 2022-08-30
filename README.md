@@ -1,4 +1,4 @@
-import '@github/typing-effect-element'
+<!-- import '@github/typing-effect-element' -->
 
 <typing-effect-element data-lines='[" Hi There, Welcome to my Github profile!"]'>
   <span data-target="typing-effect.content"></span>
