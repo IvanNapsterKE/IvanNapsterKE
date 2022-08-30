@@ -57,7 +57,7 @@
 
 <td align="center" width="30%">
 <span><b><center>CSS</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/css.png"> 
+<img height=60px src="https://img.icons8.com/dusk/452/css3.png"> 
 </td>
 
 <td align="center" width="30%">
