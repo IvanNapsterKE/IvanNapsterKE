@@ -55,7 +55,7 @@
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="30%" height = "80%">
 <!-- <span><b><center>CSS</center></b></span>  -->
 <figure>
 <img height=60px src="https://img.icons8.com/dusk/452/css3.png">
