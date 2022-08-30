@@ -1,9 +1,9 @@
 import '@github/typing-effect-element'
 
-<typing-effect data-lines='[" Hi There, Welcome to my Github profile!"]'>
+<typing-effect-element data-lines='[" Hi There, Welcome to my Github profile!"]'>
   <span data-target="typing-effect.content"></span>
   <span data-target="typing-effect.cursor">|</span>
-</typing-effect>
+</typing-effect-element>
 
 <div align="center">
 
