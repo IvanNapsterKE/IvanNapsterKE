@@ -50,25 +50,30 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="30%">
-<span><b><center>ReactJS</center></b></span> 
+<td align="center" width="30%"> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-<td align="center" width="30%" height = "80%">
-<!-- <span><b><center>CSS</center></b></span>  -->
-<figure>
-<img height=60px src="https://img.icons8.com/dusk/452/css3.png">
-<figcaption><b><center>CSS</center></b></figurecaption>
-</figure>
+<td align="center" width="30%">
+<img height=60px src="https://img.icons8.com/dusk/452/css3.png"> 
 </td>
 
 <td align="center" width="30%">
-<span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 </tr>
 
+<tr>
+<td align="center" width="30%">
+<span><b><center>ReactJS</center></b></span>
+</td>
+<td align="center" width="30%">
+<span><b><center>CSS</center></b></span> 
+</td>
+<td align="center" width="30%">
+<span><b><center>NodeJS</center></b></span>
+</td>
+</tr>
 <!-- <tr>
 <td align="center" width="20%">
 <span><b><center>MATLAB</center></b></span> 
