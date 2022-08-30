@@ -51,7 +51,7 @@
 <tbody>
  <tr>
 <td align="center" width="30%">
-<span><center>ReactJS</center></span> 
+<span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
@@ -71,7 +71,7 @@
 <span><b><center>MATLAB</center></b></span> 
 <img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td> -->
-
+<tr>
 <td align="center" width="30%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
@@ -83,12 +83,12 @@
 </td>
 </tr>
 
-<tr>
 <td align="center" width="30%">
 <span><b><center>Bash</center></b></span> 
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
 </td>
 
+<tr>
 <td align="center" width="30%">
 <span><b><center>C++</center></b></span> 
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
@@ -102,18 +102,18 @@
 </td>
 </tr> -->
 
-<!-- <tr>
+<!-- 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td> -->
-
+<tr>
 <td align="center" width="30%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="0%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
