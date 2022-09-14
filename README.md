@@ -2,6 +2,9 @@
 
 <div align="center">
  
+ 
+## Give me a shout!!!
+ 
  <img src="https://github.com/IvanNapsterKE/IvanNapsterKE/blob/main/Sorces/Hi.gif" width="50">
 
 <a href="https://linkedin.com/in/IvanNapster-KE" target="_blank">
@@ -19,7 +22,6 @@
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a> -->
 
-<br />
 <br />
 </div>
 
