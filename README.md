@@ -132,7 +132,6 @@
 <span><b><center>HTML</center></b></span>
 </td>
 </tr>
-
 </tbody>
 </table>
  
