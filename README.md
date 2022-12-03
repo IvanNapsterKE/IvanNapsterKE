@@ -28,13 +28,12 @@
 .
 <br />
 
-<h4>- 🔭 Working on becoming a guru </h4>
+
 <h4>- 🌱 Learning [React + JS + RUBY] </h4>
 <h4>- 👯 Let's collaborate ;)</h4>
 <h4>- 💬 Ask me about [Cars & Starwars] </h4>
 <h4>- 📫 How to reach me: [Click Me!!!] </h4>
-<h4>- 😄 Pronouns: [He/Him] </h4>
-<h4>- ⚡ Fun fact: Sheldon has a mexican Peso stuck up his nose</h4>
+<h4>- ⚡ Fun fact: Sheldon still has a mexican Peso stuck up his nose</h4>
 
 
 <div align="center">
@@ -47,7 +46,7 @@
  
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ## Tech Stack :computer:
 
@@ -63,9 +62,6 @@
 <img height=60px src="https://img.icons8.com/dusk/452/css3.png"> 
 </td>
 
-<td align="center" width="30%">
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
 </tr>
 
 <tr>
@@ -138,7 +134,7 @@
 </table>
  
  
-</div>
+</div> -->
 ...
 
 
