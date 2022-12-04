@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://hashnode.com/@NapsterKE" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=whatsapp&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>/
 
 <br />
