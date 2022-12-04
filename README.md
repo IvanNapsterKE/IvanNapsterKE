@@ -33,7 +33,6 @@
     <h4>- 🌱 Learning [React + JS + RUBY] </h4>
     <h4>- 👯 Let's collaborate ;)</h4>
     <h4>- 💬 Ask me about [Cars & Starwars] </h4>
-    <h4>- 📫 How to reach me: [Click Me!!!] </h4>
     <h4>- ⚡ Fun fact: Sheldon still has a mexican Peso stuck up his nose</h4>
  </div>
  
