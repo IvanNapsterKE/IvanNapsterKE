@@ -19,8 +19,9 @@
 </a>
 
 <a href="https://wa.link/n9294u" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp-%2300acee.svg?color=2962FF&style=for-the-badge&logo=whatsapp&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>/
+<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=WhatsApp style="margin-bottom: 5px;" />
+</a>
+ 
 
 <br />
 </div>
