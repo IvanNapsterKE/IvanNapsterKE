@@ -18,7 +18,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="[https://hashnode.com/@NapsterKE](https://wa.link/n9294u)" target="_blank">
+<a href="https://wa.link/n9294u" target="_blank">
 <img src=https://img.shields.io/badge/whatsapp-%2300acee.svg?color=2962FF&style=for-the-badge&logo=whatsapp&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>/
 
