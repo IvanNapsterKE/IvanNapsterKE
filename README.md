@@ -36,6 +36,8 @@
     <h4>- 📫 How to reach me: [Click Me!!!] </h4>
     <h4>- ⚡ Fun fact: Sheldon still has a mexican Peso stuck up his nose</h4>
  </div>
+ 
+ <br />
 
 
 <div align="center">
